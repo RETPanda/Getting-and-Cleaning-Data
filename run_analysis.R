@@ -67,3 +67,4 @@ names(finaldata)<-finaldataheaders
 
 # write file
 write.table(finaldata, file = "tidy_dataset.txt", row.name=FALSE)
+ 
