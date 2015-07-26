@@ -20,6 +20,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 - CodeBook.md: information about data sets
 - README.md: current file
 - run_analysis.R: R script to transform raw data set in a tidy dataset
+
 # Steps
 - clone this repository
 - download zipped raw data
@@ -27,3 +28,4 @@ From the data set in step 4, creates a second, independent tidy data set with th
 - open R console and set the working directory to the repository root
 - run run_analysis.R script
 In the repository root directory you will find the file 'tidy_dataset.txt'
+
